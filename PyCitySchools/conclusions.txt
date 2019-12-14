@@ -1,0 +1,5 @@
+I noticed that:
+
+1. The optimal spending per students are in range $585-$615. When schools spend more, test results are not getting better
+2. Charters schools are better than district schools by math and reading scores and overall passing rate
+3. Small and Medium schools (<2000 students) shows better results than larger schools(2000-5000)
